@@ -1,0 +1,37 @@
+{
+  "health": {
+    "display_name": "Health Pack",
+    "symbol": "+",
+    "color": [100, 255, 100],
+    "drop_weight": 25,
+    "effect": "Restore 30 HP"
+  },
+  "ammo": {
+    "display_name": "Ammo Cache",
+    "symbol": "A",
+    "color": [255, 200, 100],
+    "drop_weight": 25,
+    "effect": "Refill magazine"
+  },
+  "damage_boost": {
+    "display_name": "Damage Boost",
+    "symbol": "D",
+    "color": [255, 100, 100],
+    "drop_weight": 20,
+    "effect": "2x damage for 5 seconds"
+  },
+  "speed_boost": {
+    "display_name": "Speed Boost",
+    "symbol": "S",
+    "color": [100, 200, 255],
+    "drop_weight": 20,
+    "effect": "1.5x speed for 5 seconds"
+  },
+  "shield": {
+    "display_name": "Shield",
+    "symbol": "X",
+    "color": [200, 100, 255],
+    "drop_weight": 10,
+    "effect": "Absorb next hit"
+  }
+}

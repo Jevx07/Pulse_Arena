@@ -1,0 +1,58 @@
+{
+  "rifle": {
+    "name": "Rifle",
+    "max_ammo": 30,
+    "damage": 25,
+    "fire_rate": 10,
+    "reload_time": 2000,
+    "spread_count": 1,
+    "charge_frames": 0,
+    "burst_count": 1,
+    "burst_interval": 0
+  },
+  "smg": {
+    "name": "SMG",
+    "max_ammo": 60,
+    "damage": 10,
+    "fire_rate": 4,
+    "reload_time": 1500,
+    "spread_count": 1,
+    "charge_frames": 0,
+    "burst_count": 1,
+    "burst_interval": 0
+  },
+  "shotgun": {
+    "name": "Shotgun",
+    "max_ammo": 8,
+    "damage": 15,
+    "fire_rate": 30,
+    "reload_time": 2500,
+    "spread_count": 5,
+    "spread_angle": 0.26,
+    "charge_frames": 0,
+    "burst_count": 1,
+    "burst_interval": 0
+  },
+  "railgun": {
+    "name": "Railgun",
+    "max_ammo": 5,
+    "damage": 120,
+    "fire_rate": 60,
+    "reload_time": 3000,
+    "spread_count": 1,
+    "charge_frames": 60,
+    "burst_count": 1,
+    "burst_interval": 0
+  },
+  "burst_rifle": {
+    "name": "Burst Rifle",
+    "max_ammo": 21,
+    "damage": 20,
+    "fire_rate": 20,
+    "reload_time": 2000,
+    "spread_count": 1,
+    "charge_frames": 0,
+    "burst_count": 3,
+    "burst_interval": 5
+  }
+}
